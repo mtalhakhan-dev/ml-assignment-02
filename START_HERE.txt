@@ -1,0 +1,13 @@
+ML Assignment 2 — AIC354 — Submission Package
+
+Task 1 (Titanic): instructor notebook, instructor sample dataset, original trained model and instructor-based Streamlit app. The original notebook was supplied by the instructor; review and execute it locally before submitting.
+Task 2 (Heart Disease): executed notebook, official UCI Cleveland dataset, trained model and Streamlit app.
+Heart model uses exactly 4 attributes: age, trestbps, chol, thalach. Binary target: num=0 vs num>0. 303 records, 242 training, 61 testing, test accuracy 72.13% (44/61). Educational use only; not medical advice.
+
+REMAINING STEPS BEFORE SUBMISSION:
+1. Publish each app online using a GitHub repository and Streamlit Community Cloud (or a comparable host). Each app needs its own folder and main file app.py; set the appropriate folder/app.py as main file.
+2. Copy the real public URL of each working app to the TOP of the corresponding .ipynb notebook (replace PENDING).
+3. Verify both URLs and prediction forms in a browser.
+4. Upload notebooks, dataset files and trained models to Google Classroom as required.
+
+Neither app has been deployed. Do not claim deployment until the live URLs work.
